@@ -14,9 +14,9 @@ _|"""""_|"""""_|"""""_|"""""_|"""""_|"""""_|"""""|
 # I'm Mariana. Welcome to my profile :)
 
 ---
-🚂 Currently Software Engineer @ Siemens Mobility 💻
+<!-- 🚂 Currently Software Engineer @ Siemens Mobility 💻 -->
 
-📖 Starting a MSc in Computer Science and Engineering @ DTU in September 2023! ⌨️
+📖 MSc in Computer Science and Engineering student @ DTU 🇩🇰
 
 <a href="https://immarianaas.com/about-me" target="_blank"> >> learn more about me << </a>
 </div>
